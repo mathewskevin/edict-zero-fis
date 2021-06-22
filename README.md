@@ -1,2 +1,2 @@
 # edict-zero-fis
-web scraper to download audio files
+Web scraper to download audio files.
